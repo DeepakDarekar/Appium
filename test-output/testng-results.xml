@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="271853" started-at="2019-11-08T08:25:41Z" finished-at="2019-11-08T08:30:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="271853" started-at="2019-11-08T08:25:41Z" finished-at="2019-11-08T08:30:13Z">
+      <class name="com.calculator.app.CalculatorAppAdd">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.calculator.app.CalculatorAppAdd@3fee9989]" name="setUp" duration-ms="271563" started-at="2019-11-08T08:25:41Z" finished-at="2019-11-08T08:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.calculator.app.CalculatorAppAdd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
